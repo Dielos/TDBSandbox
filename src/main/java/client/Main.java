@@ -20,7 +20,7 @@ import org.apache.jena.tdb.sys.TDBInternal;
 import org.apache.jena.util.FileManager;
 
 /**
- *
+ * Salut \o/
  * @author richou
  */
 public class Main {
